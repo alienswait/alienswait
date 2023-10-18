@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert Can Ünek</h1>
-<h3 align="center">As a highly motivated junior iOS Developer, I specialize in crafting engaging and user-friendly applications. Proficient in Swift, Objective-C, and project management, I prioritize delivering clean and efficient code for optimal app performance. My expertise lies in leveraging the latest iOS frameworks and technologies to build robust, scalable solutions that guarantee a seamless user experience.</h3>
+<h3 align="center">As a highly motivated junior iOS Developer/React Native, I specialize in crafting engaging and user-friendly applications. Proficient in Swift, Objective-C, and project management, I prioritize delivering clean and efficient code for optimal app performance. My expertise lies in leveraging the latest iOS frameworks and technologies to build robust, scalable solutions that guarantee a seamless user experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alienswait&label=Profile%20views&color=0e75b6&style=flat" alt="alienswait" /> </p>
 
