@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alienswait&label=Profile%20views&color=0e75b6&style=flat" alt="alienswait" /> </p>
 
-- 🔭 I’m currently working on **Swift & Unity**
+- 🔭 I’m currently working on **Swift & React Native**
 
 - 📫 How to reach me **mrtcnunk@gmail.com**
 
